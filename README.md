@@ -1,6 +1,7 @@
 ![logo](Image/banner3.png)
+
 # 💫 About Me:
-I'm Currently Working on CV/Resume Analyzer<br>I'm Currently Learning TensorFlow, Langgraph,Pytorch<br>Ask me about Python, C, C++, Html, CSS, React, Express<br>Fun Fact I feel I am Creative 
+* I'm Currently Working on CV/Resume Analyzer<br>* I'm Currently Learning TensorFlow, Langgraph,Pytorch<br>* Ask me about Python, C, C++, Html, CSS, React, Express<br>* Currently I`m available for FreeLancing <br>* Contact Me on: izzatbaig2003@gmail.com<br>* Fun Fact I feel I am Creative 
 
 
 # 💻 Tech Stack:
