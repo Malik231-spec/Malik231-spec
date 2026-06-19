@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right"  width="400px" height="200px" alt="Developer Animation">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right"  width="40%"  alt="Developer Animation">
 * I'm Currently Working on CV/Resume Analyzer<br>* I'm Currently Learning TensorFlow, Langgraph,Pytorch<br>* Ask me about Python, C, C++, Html, CSS, React, Express<br>* Currently I`m available for FreeLancing <br>* Contact Me on: izzatbaig2003@gmail.com<br>* Fun Fact I feel I am Creative 
 
 
